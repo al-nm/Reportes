@@ -6,3 +6,6 @@ Programas:
   SPSS
   R
 
+\n
+
+El extenso.pdf se refiere a un articulo obtenido de mi tesis de licenciatura, donde se utilizo la metodologia de Regresión Logística en SPSS.
